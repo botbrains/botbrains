@@ -1,4 +1,28 @@
-## Hi there 👋
+## About me
+
+Code:Louisville           |           2024
+
+Hi, I'm Donovan. I am a student developer.
+
+🔭 I’m currently working on learning to code.
+
+🌱 I’m currently learning:
+
+| Rank | Interest |
+|-----:|---------------|
+|     1|   WebDev      |
+|     2|   Python      |
+|     3|   AI          |
+
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
+
+<!-- TO DO: add more details about me later -->
+
 
 <!--
 **botbrains/botbrains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
