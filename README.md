@@ -1,12 +1,11 @@
 ## About me
 
-Code:Louisville           |           2024
-
-Hi, I'm Donovan. I am a student developer.
+Hi, I'm Donovan. I am a student developer with a degree in Computer Information Technology from Western Kentucky University and currently learning to code with Code:YOU aka Code Louisville!
 
 🔭 I’m currently working on learning to code.
 
 🌱 I’m currently learning:
+
 
 | Rank | Interest |
 |-----:|---------------|
